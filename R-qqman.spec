@@ -4,7 +4,7 @@
 #
 Name     : R-qqman
 Version  : 0.1.4
-Release  : 8
+Release  : 9
 URL      : https://cran.r-project.org/src/contrib/qqman_0.1.4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/qqman_0.1.4.tar.gz
 Summary  : Q-Q and Manhattan Plots for GWAS Data
